@@ -23,5 +23,5 @@ for x in range(len(product)):
     print(f"{product[x]} : Rs. {price[x]}")
 
 print("-----------------------------------")
-print(f"Total Bill: Rs. {sum(prices)}")
+print(f"Total Bill: Rs. {sum(price)}")
 print("========== THANK YOU! =============")
